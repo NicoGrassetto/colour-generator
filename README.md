@@ -13,4 +13,6 @@ Special thanks to [Finn Rayment](https://github.com/rayment) for the help!
 
 You can install this module through npm by following the instructions below.
 
-`sadasdas`
+`npm install colour-generator`
+
+Side note: make sure that your current directory is your project folder!
