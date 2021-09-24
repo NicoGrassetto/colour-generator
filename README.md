@@ -8,3 +8,9 @@ The idea for this module roots back to a while ago when I had to implement a way
 - Question: How to generate colours that are equally distributed over the colour spectrum? It turns out that this idea is not as trivial as it seems. Indeed, some colour formats are simpler to deal with than others. This module uses a hsv format as it allows us to use radians and trigonometry to find equally spaced points on a circle. We then convert it back to rgb and finally to hexadecimal format.
 
 Special thanks to [Finn Rayment](https://github.com/rayment) for the help!
+
+## Installing
+
+You can install this module through npm by following the instructions below.
+
+`sadasdas`
